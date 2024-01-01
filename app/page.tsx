@@ -10,7 +10,7 @@ export default function Home() {
               do-do
             </Typography>
             <Box sx={{ display: "flex", gap: "1rem" }}>
-              <Button variant="outlined" color="info">
+              <Button variant="outlined" color="info" href="/login">
                 Login
               </Button>
               <Button variant="contained" color="info">
